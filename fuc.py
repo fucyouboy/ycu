@@ -1,1 +1,1 @@
-print("huc you")
+print("fuc you")
